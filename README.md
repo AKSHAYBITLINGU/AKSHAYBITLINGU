@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Akshay Bitlingu</h1>
-<h3 align="center">A passionate full stack developer and machine learning engineer from India</h3>
+<h3 align="center">A passionate backend developer and machine learning engineer from India</h3>
 
 - 🔭 I’m currently working on **project buyers**
 
